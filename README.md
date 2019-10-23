@@ -1,5 +1,5 @@
-# CprE288
-CprE288- Embedded Systems
+# CprE288 -Embedded Systems
+These labs were ran using a programmable Irobot "Roomba". All of the labs were combined at the end to build a robot that would traverse through a maze while providing a map of what obstacles it is seeing and information on where the "Landing point" is.
 
 Lab 1-INTRODUCTION TO CODE COMPOSER STUDIO AND THE CYBOT PLATFORM
 
